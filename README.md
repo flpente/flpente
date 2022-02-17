@@ -1,5 +1,5 @@
 ## Eae, eu sou o Felipe, desenvolvedor Full-Stack!!!
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/flpente">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=flpente&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpente&layout=compact&langs_count=7&theme=tokyonight"/>
